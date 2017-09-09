@@ -8,6 +8,7 @@
 <hr /><br>
 <h3>如何使用</h3>
 timeTask：启动定时任务，每隔半小时查询并记录一次<br><br>
+<h4>欢迎交流，xhe6630@163.com</h4>
 <h4>数据来源：</h4>
 <pre>
 https://www.douyu.com/directory/all?page=1
@@ -21,4 +22,4 @@ http://api.plu.cn/tga/streams?max-results=50&start-index=1&sort-by=views&filter=
 https://www.zhanqi.tv/api/static/v2.1/live/list/50/1.json
 </pr>
 
-<h4>欢迎交流，xhe6630@163.com</h4>
+
