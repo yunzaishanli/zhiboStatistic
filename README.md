@@ -20,4 +20,4 @@ http://webh.huajiao.com/live/listcategory?cateid=1000&offset=1&nums=40&fmt=jsonp
 http://api.plu.cn/tga/streams?max-results=50&start-index=1&sort-by=views&filter=0&game=0
 https://www.zhanqi.tv/api/static/v2.1/live/list/50/1.json
 
-<strong>欢迎交流，xhe6630@163.com</strong>
+<h4>欢迎交流，xhe6630@163.com</h4>
